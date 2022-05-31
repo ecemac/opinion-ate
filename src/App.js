@@ -1,5 +1,11 @@
+import {RestaurantScreen} from './pages/RestaurantScreen';
+
 function App() {
-  return <p className="text-lg text-red-500">HELLO TESTING</p>;
+  return (
+    <div>
+      <RestaurantScreen />
+    </div>
+  );
 }
 
 export default App;
