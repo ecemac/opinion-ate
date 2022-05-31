@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# opinion-ate
+
+An app for tracking reviews of dishes at different restaurants.
+
+Production: <https://cra-opinionate.netlify.app/>
+
+Dependencies are locked with a `package-lock.json` file, so please use `npm` and not `yarn` for installing them.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,4 +74,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
 # opinion-ate
