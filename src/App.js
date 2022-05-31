@@ -1,10 +1,12 @@
+import {Provider} from 'react-redux';
+import store from './store';
 import {RestaurantScreen} from './pages/RestaurantScreen';
 
 function App() {
   return (
-    <div>
+    <Provider store={store}>
       <RestaurantScreen />
-    </div>
+    </Provider>
   );
 }
 
